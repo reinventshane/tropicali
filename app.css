@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
+
   line-height: 1;
 }
 
@@ -92,6 +93,8 @@ section {
 }
 section p {
   margin: 24px 0 0 0;
+   background-color: red; 
+   color:#fff
 }
 
 /*# sourceMappingURL=app.css.map */
